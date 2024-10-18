@@ -83,7 +83,7 @@ class Carrito:
 # Ejemplo de uso
 if __name__ == "__main__":
     tienda = Tienda()
-    tienda.agregar_producto(Camisa("Camisa Casual", 25.99, "M", "Algodón", "Clásico"))
+    tienda.agregar_producto(Camisa("Camisa Casual", 25.00, "M", "Algodón", "Clásico"))
     tienda.agregar_producto(Pantalon("Pantalón Jeans", 35.50, "L", "Denim", "Normal"))
     tienda.agregar_producto(Zapato("Zapato Deportivo", 50.00, "42", "Sintético", "Deportivo"))
 
