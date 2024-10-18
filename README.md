@@ -32,4 +32,5 @@ El sistema permite seleccionar uno o más productos de un menú, almacenarlos en
 
 ## Requisitos
 Python 3.x
+
 No se requieren librerías externas.
