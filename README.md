@@ -24,8 +24,12 @@ El proyecto contiene las siguientes clases:
 - `Tienda`: Clase que maneja los productos disponibles y las compras.
 - `Carrito`: Clase que almacena los productos seleccionados.
 
-## Uso
+## Ejemplo de Uso
+Al ejecutar el programa, se mostrarán los productos disponibles en la tienda. El usuario puede agregar productos al carrito y ver un resumen de la compra, incluyendo el total a pagar.
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/Tienda_Ropa_POOBootcamp.git
+## Interacción con el Usuario
+El sistema permite seleccionar uno o más productos de un menú, almacenarlos en un carrito y mostrar un resumen al finalizar la compra.
+
+## Requisitos
+Python 3.x
+No se requieren librerías externas.
